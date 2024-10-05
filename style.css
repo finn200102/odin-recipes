@@ -1,0 +1,23 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: beige;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+h2 {
+  color: peru;
+}
+
+#external-link {
+  font-size: 30px;
+  text-shadow: 3px 3px #c9bfbf;
+}
